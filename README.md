@@ -1,6 +1,6 @@
 ![logo](https://github.com/01saurabhshukla/01saurabhshukla/blob/main/Black%20%26%20Blue%20Gaming%20Futuristic%20Youtube%20Intro.gif)
 <h1 align="center">Hi 👋, I'm Saurabh Shukla</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Machine learning developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01saurabhshukla&label=Profile%20views&color=0e75b6&style=flat" alt="01saurabhshukla" /> </p>
 
